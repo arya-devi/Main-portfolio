@@ -1,0 +1,47 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;400;500;600;700;800&display=swap");
+
+:root {
+  --theme-reverse-grad-background: linear-gradient(
+    270deg,
+    var(--grad-1) 0%,
+    var(--grad-2) 100%
+  );
+  --theme-grad-background: linear-gradient(
+    270deg,
+    var(--grad-2) 0%,
+    var(--grad-1) 100%
+  );
+  --theme-grad-bacground-along: linear-gradient(
+    0deg,
+    var(--grad-2) 0%,
+    var(--grad-1) 100%
+  );
+  --theme-background: #1d1d20;
+  --theme-primary-color: #1d1d20;
+  --theme-text-color: #ccc;
+  --theme-secondary-color: #323338;
+  --theme-light-text-color: #d1d1d1;
+  --white: #fff;
+  --light-grey: #4c4c51;
+  --light-blue: #4ba9f5;
+}
+
+body {
+  width: 100%;
+  overflow-x: hidden;
+}
+
+#root {
+  height: 100%;
+  width: 100%;
+}
+
+* {
+  font-family: Montserrat;
+  margin: 0;
+  text-decoration: none;
+}
+
+input:focus {
+  outline: none;
+}

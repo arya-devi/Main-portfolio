@@ -1,0 +1,119 @@
+{
+  "fullName": "Aryadevi A",
+  "email": "dewisdevelops@gmail.com",
+  "phone": { "global": "6238288922", "display": "6238288922" },
+  "links": { 
+    "resume": "https://www.canva.com/design/DAF1EcXBDEs/Sk_VIw1IGkS_P9oOCVA6ug/view?utm_content=DAF1EcXBDEs&utm_campaign=designshare&utm_medium=link&utm_source=editor",
+    "github": "https://github.com/arya-devi",
+    "linkedin":"https://www.linkedin.com/in/arya-devi-54911a294/"
+  },
+  "projects": 
+  [
+    {
+      "name": "E-commerse-React.js",
+      "repo": "https://github.com/arya-devi/Ecommerce",
+      "logo": "https://www.pngall.com/wp-content/uploads/2016/04/Shopping-Free-PNG-Image.png",
+      "screenshots": [
+        "https://i.postimg.cc/25dPCCYk/ecom1.png",
+        "https://i.postimg.cc/Z5dGDrDy/ecom2.png",
+        "https://i.postimg.cc/XJVtJtNw/ecom3.png",
+        "https://i.postimg.cc/d0cbMLzN/ecom4.png",
+        "https://i.postimg.cc/Fs8tZPG4/ecom5.png",
+        "https://i.postimg.cc/pXpbKNfC/ecom6.png"
+      ],
+      "description": "Welcome to Evashop — your fashion and lifestyle hub! Shop seamlessly with our React, Strapi, and Razorpay integration.\nExplore:\n🏠 Home: Exclusive offers and curated collections.\n🛒 Cart: Easy tracking and hassle-free checkout.\n👨‍💼 Men, 👩‍💼 Women, 👶 Kids: From casual to chic—we have it all.\n👗 Dresses, 💄 Beauty, 👟 Shoes: Statement pieces for every style.\nWhy Us:\n✨ Trendy Collections: Stay ahead effortlessly.\n🛡 Secure Payments: Razorpay for worry-free transactions.\n🚚 Fast Shipping: Excitement delivered on time.\n🌟 Customer Satisfaction: Your happiness, our priority.\nRedefine online shopping—browse and shine with Evashop!\n",
+      "pinned": true
+    },
+    {
+      "name": "Voice Assistant - Jarvis",
+      "demoLink": "https://voice-assistance-jarvis.vercel.app/",
+      "repo": "https://github.com/arya-devi/VoiceAssistance_Jarvis",
+      "logo": "https://cdn-icons-png.flaticon.com/512/2668/2668366.png",
+      "screenshots": [
+        "https://i.postimg.cc/W3LgwPqk/jarvis1.png",
+        "https://i.postimg.cc/9MdTxNyN/jarvis2.png"
+      ],
+      "description": "🌐 Jarvis, Your Virtual Assistant\n\n 🗣 Voice-Activated Control: Speak, and Jarvis responds—effortless interaction.\n🚀 Efficiency Boost: Open apps, check time, date, and more—saving you time.\n🔒 Secure and Private: Your data stays safe with Jarvis's top-notch security.\n📚 Constant Learning: Jarvis adapts, providing a personalized, evolving experience.\n🌐 Web Exploration: Quick searches and Wikipedia inquiries at your command.\nUpgrade your digital game with Jarvis—your smart, secure, and efficient virtual assistant!",
+      "pinned": true
+    },
+    {
+      "name": "React Memory Game",
+      "demoLink": "https://memory-game-tau-five.vercel.app/",
+      "repo": "https://github.com/arya-devi/memoryGame",
+      "logo": "https://cdn-icons-png.flaticon.com/512/6168/6168860.png",
+      "screenshots": [
+        "https://i.postimg.cc/3wrZDhpJ/memorygame2.png",
+        "https://i.postimg.cc/bwhgpkwn/memorygame1.png"
+        
+      ],
+      "description": "🧠 Pair Finder: Memory Mastery in Your Hands\n\nDive into Pair Finder, the ultimate memory game adventure! 🎮\nSharpen your mind with exciting challenges, intricate puzzles, and visually delightful pairings.\nRace against time, unlock achievements, and celebrate victories.\n Whether you're a casual player or a memory maestro, Pair Finder is your go-to for fun and cognitive enhancement.\nReady to uncover your memory potential? Start playing now! 🚀🔍\n\n",
+      "pinned": false
+    },
+    {
+      "name": "Portfolio",
+      "demoLink": "https://portfolio-phi-ten-60.vercel.app/",
+      "repo": "https://github.com/arya-devi/Portfolio",
+      "logo": "https://cdn-icons-png.flaticon.com/512/1160/1160924.png",
+      "screenshots": [
+        "https://i.postimg.cc/0jGTyxDd/portfolio1.png",
+        "https://i.postimg.cc/gkm9BXbM/portfolio2.png",
+        "https://i.postimg.cc/4NPCCfJX/portfolio3.png",
+        "https://i.postimg.cc/GmmWdW2G/portfolio4.png"
+      ],
+      "description": "🚀 Explore My World: Responsive Portfolio Showcase\n\n🌟 Welcome to my virtual realm, where creativity meets technology in my HTML, CSS, and JS-powered portfolio!\n😊Immerse yourself in a seamless and fully responsive experience, crafted with precision and attention to detail.\n🌐Navigate through a collection of my projects with ease, whether you're on a desktop, tablet, or smartphone.\n📱Witness the fusion of design and functionality as you explore my work, thoughtfully presented in an adaptive layout.\n 🎨From eye-catching visuals to interactive elements, this portfolio is a testament to my commitment to responsive web development.\n🚀Join me on this digital journey and discover the versatility of my creations. Your adventure begins here!\n\n",
+      "pinned": true
+    },
+    {
+      "name": "Social media",
+      "demoLink": "https://social-media-six-theta.vercel.app/",
+      "repo": "https://github.com/arya-devi/SocialMedia",
+      "logo": "https://cdn-icons-png.flaticon.com/512/7096/7096932.png",
+      "screenshots": [
+        "https://i.postimg.cc/Kz6qTVxq/socialmedia1.png",
+        "https://i.postimg.cc/XYLzPQkq/socialmedia2.png",
+        "https://i.postimg.cc/4d72mZkH/socialmedia3.png"
+      ],
+      "description": "🐾 Social Media: Where Nature Meets Technology with a Customizable Twist! 🌿\nWelcome to Animal Media, a digital sanctuary where the beauty of nature blends seamlessly with cutting-edge technology! 🌍\nImmerse yourself in a unique experience enriched with customizable themes that reflect your mood and style. 🎨\nStay connected with our innovative chat alert system, ensuring you never miss a moment or conversation. 📬\nEmbark on a wildlife journey with our person search feature, allowing you to discover and connect with fellow nature enthusiasts. 🔍\nWhether you're passionate about fauna or flora, Animal Media caters to your individual interests with a personalized touch. 🦓🌺\nJoin our thriving community and let the digital wilderness unfold before your eyes! 🌟🦋\n",
+      "pinned": true
+    },
+    {
+      "name": "React Todo App",
+      "repo": "https://github.com/arya-devi/Todo-App",
+      "logo": "https://cdn-icons-png.flaticon.com/512/8476/8476676.png",
+      "screenshots": [
+        "https://i.postimg.cc/7Z1kZ3Mr/todo1.png ",
+        "https://i.postimg.cc/QM0Zpjy6/todo2.png",
+        "https://i.postimg.cc/LsHMYJNY/todo3.png"
+      ],
+      "description": "TodoApp",
+      "pinned": false
+    },
+    {
+      "name": "CRUD APP",
+      "repo": "https://github.com/arya-devi/CRUD_App",
+      "logo": "https://cdn-icons-png.flaticon.com/512/1160/1160515.png",
+      "screenshots": [
+        "https://i.postimg.cc/DZndKTfK/2.png",
+        "https://i.postimg.cc/q78XYRTL/crud2.png",
+        "https://i.postimg.cc/hjs8D5hQ/crud3.png"
+      ],
+      "description": "🌐 Node.js CRUD with Image Editing\n🚀 Effortless CRUD Operations: Manage persons with ease—create, read, update, and delete.\n 📷 Image Integration: Personalize entries with captivating images for a visually engaging database.\n 📊 Dynamic Editing: Seamlessly edit existing persons, updating details and images on-the-fly.\n🗑 Efficient Deletion: Streamlined deletion process to remove outdated records for data accuracy.\n💡 User-Friendly Interface: Intuitive design for a smooth user experience in managing your data.\nElevate your CRUD experience with Node.js—simplified data management with the added flair of image editing! 🌟🔧\n\n ",
+      "pinned": true
+    },
+    {
+      "name": "React Weather",
+      "demoLink": "https://weather-app-js-tawny-nu.vercel.app/",
+      "repo": "https://github.com/arya-devi/WeatherApp-js",
+      "logo": "https://cdn-icons-png.flaticon.com/512/831/831268.png",
+      "screenshots": [
+        "https://i.postimg.cc/QxHCCyHG/weather1.png",
+        "https://i.postimg.cc/3RbghsfS/Screenshot-2023-11-24-183956.png",
+        "https://i.postimg.cc/1tzpLmBV/Screenshot-2023-11-24-184033.png",
+        "https://i.postimg.cc/66HT9X6f/weather2.png"
+      ],
+      "description": "The Weather App is a single-page application built with React that provides real-time weather information for any location. With its responsive design and user-friendly interface, users can easily access current weather conditions and daily forecasts not only weather but also wind speed and humiditi.\n\n",
+      "pinned": false
+    }
+    
+  ]
+}
