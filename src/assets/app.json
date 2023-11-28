@@ -21,7 +21,7 @@
         "https://i.postimg.cc/Fs8tZPG4/ecom5.png",
         "https://i.postimg.cc/pXpbKNfC/ecom6.png"
       ],
-      "description": "Welcome to Evashop — your fashion and lifestyle hub! Shop seamlessly with our React, Strapi, and Razorpay integration.\nExplore:\n🏠 Home: Exclusive offers and curated collections.\n🛒 Cart: Easy tracking and hassle-free checkout.\n👨‍💼 Men, 👩‍💼 Women, 👶 Kids: From casual to chic—we have it all.\n👗 Dresses, 💄 Beauty, 👟 Shoes: Statement pieces for every style.\nWhy Us:\n✨ Trendy Collections: Stay ahead effortlessly.\n🛡 Secure Payments: Razorpay for worry-free transactions.\n🚚 Fast Shipping: Excitement delivered on time.\n🌟 Customer Satisfaction: Your happiness, our priority.\nRedefine online shopping—browse and shine with Evashop!\n",
+      "description": "I successfully completed an e-commerce project, enhancing my skills in React Router, Strapi backend API, Razorpay payment integration, and Redux Toolkit for state management\n....Welcome to Myshop — your fashion and lifestyle hub! Shop seamlessly with our React, Strapi, and Razorpay integration.\nExplore:\n🏠 Home: Exclusive offers and curated collections.\n🛒 Cart: Easy tracking and hassle-free checkout.\n👨‍💼 Men, 👩‍💼 Women, 👶 Kids: From casual to chic—we have it all.\n👗 Dresses, 💄 Beauty, 👟 Shoes: Statement pieces for every style.\nWhy Us:\n✨ Trendy Collections: Stay ahead effortlessly.\n🛡 Secure Payments: Razorpay for worry-free transactions.\n🚚 Fast Shipping: Excitement delivered on time.\n🌟 Customer Satisfaction: Your happiness, our priority.\nRedefine online shopping—browse and shine with Myshop!\n",
       "pinned": true
     },
     {
@@ -47,7 +47,7 @@
         
       ],
       "description": "🧠 Pair Finder: Memory Mastery in Your Hands\n\nDive into Pair Finder, the ultimate memory game adventure! 🎮\nSharpen your mind with exciting challenges, intricate puzzles, and visually delightful pairings.\nRace against time, unlock achievements, and celebrate victories.\n Whether you're a casual player or a memory maestro, Pair Finder is your go-to for fun and cognitive enhancement.\nReady to uncover your memory potential? Start playing now! 🚀🔍\n\n",
-      "pinned": false
+      "pinned": true
     },
     {
       "name": "Portfolio",
@@ -61,7 +61,7 @@
         "https://i.postimg.cc/GmmWdW2G/portfolio4.png"
       ],
       "description": "🚀 Explore My World: Responsive Portfolio Showcase\n\n🌟 Welcome to my virtual realm, where creativity meets technology in my HTML, CSS, and JS-powered portfolio!\n😊Immerse yourself in a seamless and fully responsive experience, crafted with precision and attention to detail.\n🌐Navigate through a collection of my projects with ease, whether you're on a desktop, tablet, or smartphone.\n📱Witness the fusion of design and functionality as you explore my work, thoughtfully presented in an adaptive layout.\n 🎨From eye-catching visuals to interactive elements, this portfolio is a testament to my commitment to responsive web development.\n🚀Join me on this digital journey and discover the versatility of my creations. Your adventure begins here!\n\n",
-      "pinned": true
+      "pinned": false
     },
     {
       "name": "Social media",
@@ -98,7 +98,7 @@
         "https://i.postimg.cc/hjs8D5hQ/crud3.png"
       ],
       "description": "🌐 Node.js CRUD with Image Editing\n🚀 Effortless CRUD Operations: Manage persons with ease—create, read, update, and delete.\n 📷 Image Integration: Personalize entries with captivating images for a visually engaging database.\n 📊 Dynamic Editing: Seamlessly edit existing persons, updating details and images on-the-fly.\n🗑 Efficient Deletion: Streamlined deletion process to remove outdated records for data accuracy.\n💡 User-Friendly Interface: Intuitive design for a smooth user experience in managing your data.\nElevate your CRUD experience with Node.js—simplified data management with the added flair of image editing! 🌟🔧\n\n ",
-      "pinned": true
+      "pinned": false
     },
     {
       "name": "React Weather",
@@ -113,6 +113,19 @@
       ],
       "description": "The Weather App is a single-page application built with React that provides real-time weather information for any location. With its responsive design and user-friendly interface, users can easily access current weather conditions and daily forecasts not only weather but also wind speed and humiditi.\n\n",
       "pinned": false
+    },
+    {
+      "name": "React ColorGenerator App",
+      "demoLink": "https://color-generator-app-peach.vercel.app/",
+      "repo": "https://github.com/arya-devi/ColorGenerator-App",
+      "logo": "https://cdn-icons-png.flaticon.com/512/3124/3124925.png",
+      "screenshots": [
+        "https://i.postimg.cc/T1RVQ9Q2/Screenshot-2023-11-28-213915.png",
+        "https://i.postimg.cc/4dvvzM6F/Screenshot-2023-11-28-213453.png"
+        
+      ],
+      "description": "React Color Generator App\n\nValues.js (API) , I Leaner how to implement copy option using navigator.clipboard.writeText(hexValue)...n\n",
+      "pinned": true
     }
     
   ]
