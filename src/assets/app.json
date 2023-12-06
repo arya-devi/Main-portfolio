@@ -124,7 +124,7 @@
         "https://i.postimg.cc/4dvvzM6F/Screenshot-2023-11-28-213453.png"
         
       ],
-      "description": "React Color Generator App\n\nValues.js (API) , I Leaner how to implement copy option using navigator.clipboard.writeText(hexValue)...n\n",
+      "description": "React Color Generator App\n\nValues.js (API) , I Learn how to implement copy option using navigator.clipboard.writeText(hexValue)...n\n",
       "pinned": true
     },
      {
@@ -150,6 +150,21 @@
         "https://i.postimg.cc/fRVYyFN6/crud4.png"
       ],
       "description": "CRUD Appication to develop the API using Nodejs,Express and Mongo DB \n\n.",
+      "pinned": false
+    },
+       {
+      "name": "MERN-AUTH",
+      "repo": "https://github.com/arya-devi/MERN-AUTH",
+      "logo": "https://cdn-icons-png.flaticon.com/512/1160/1160514.png",
+      "screenshots": [
+        "https://i.postimg.cc/26LvScYf/2.jpg",
+        "https://i.postimg.cc/fTfdySGk/6.jpg",
+        "https://i.postimg.cc/L5z1zJhC/4.jpg",
+        "https://i.postimg.cc/c1YwqbTR/5.jpg",
+        "https://i.postimg.cc/pd6zxNgZ/1.jpg",
+        "https://i.postimg.cc/Z5YddKmH/3.jpg"
+      ],
+      "description": "MERN-AUTH Appication to develop the API using Nodejs,Express and Mongo DB \n\n.",
       "pinned": false
     }
   ]
