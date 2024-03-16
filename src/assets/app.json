@@ -3,13 +3,41 @@
   "email": "dewisdevelops@gmail.com",
   "phone": { "global": "6238288922", "display": "6238288922" },
   "links": { 
-    "resume": "https://www.dropbox.com/scl/fi/jneej5x798gboicf2bfr5/Aryadevi.A-1.pdf?rlkey=y8n8eq0gc5ulid01um4jqmcnt&dl=0 ",
+    "resume": "https://github.com/arya-devi/Resume/blob/main/Aryadevi.pdf ",
     "github": "https://github.com/arya-devi",
     "linkedin":"https://www.linkedin.com/in/arya-devi-54911a294/"
   },
   "projects": 
   [
     {
+      "name": "Cookin-React.js",
+      "demoLink": "https://vercel.com/aryadevis-projects/cookin",
+      "repo": "https://github.com/arya-devi/Namaste-React",
+      "logo": "https://image.similarpng.com/very-thumbnail/2020/11/Happy-male-chef-on-transparent-background-PNG.png",
+      "screenshots": [
+        "https://i.postimg.cc/xT3hDB7t/Screenshot-2024-03-16-222642.png",
+        "https://i.postimg.cc/CLgX2wvR/Screenshot-2024-03-16-222740.png",
+        "https://i.postimg.cc/BbWk434w/Screenshot-2024-03-16-222712.png",
+        "https://i.postimg.cc/NF1V0n0G/Screenshot-2024-03-16-222923.png",
+      ],
+      "description": "I currently doing an cooking project, enhancing my skills in React ",
+      "pinned": true
+    },
+    {
+      "name": "Ecommerce UI Next.js",
+      "demoLink": "https://vercel.com/aryadevis-projects/ecomnext-client",
+      "repo": "https://github.com/arya-devi/Ecomnext_Client",
+      "logo": "https://www.pngall.com/wp-content/uploads/2016/04/Shopping-Free-PNG-Image.png",
+      "screenshots": [
+        "https://i.postimg.cc/BbVJHgP1/Screenshot-2024-03-16-224711.png",
+        "https://i.postimg.cc/7h6x5chk/Screenshot-2024-03-16-224800.png",
+        "https://i.postimg.cc/gJ4zkdYs/Screenshot-2024-03-16-224855.png",
+        "https://i.postimg.cc/4dX4gnTn/Screenshot-2024-03-16-224951.png",
+      ],
+      "description": "I successfully completed an e-commerce project using Next js",
+      "pinned": true
+    },
+     {
       "name": "E-commerse-React.js",
       "repo": "https://github.com/arya-devi/Ecommerce",
       "logo": "https://www.pngall.com/wp-content/uploads/2016/04/Shopping-Free-PNG-Image.png",
@@ -139,33 +167,6 @@
       "description": "Codepen React project with features like code linting, modern build tools, and code editing capabilities using CodeMirror\n\n.",
       "pinned": true
     },
-       {
-      "name": "Node_Express_Mongo DB CRUD Appication",
-      "repo": "https://github.com/arya-devi/crud-_node_express",
-      "logo": "https://cdn-icons-png.flaticon.com/512/1160/1160514.png",
-      "screenshots": [
-        "https://i.postimg.cc/L6CzHSrt/crud1.png",
-        "https://i.postimg.cc/L8GL1T4h/crud2.png",
-        "https://i.postimg.cc/g0RRqZrs/crud3.png",
-        "https://i.postimg.cc/fRVYyFN6/crud4.png"
-      ],
-      "description": "CRUD Appication to develop the API using Nodejs,Express and Mongo DB \n\n.",
-      "pinned": false
-    },
-       {
-      "name": "MERN-AUTH",
-      "repo": "https://github.com/arya-devi/MERN-AUTH",
-      "logo": "https://cdn-icons-png.flaticon.com/512/1160/1160514.png",
-      "screenshots": [
-        "https://i.postimg.cc/26LvScYf/2.jpg",
-        "https://i.postimg.cc/fTfdySGk/6.jpg",
-        "https://i.postimg.cc/L5z1zJhC/4.jpg",
-        "https://i.postimg.cc/c1YwqbTR/5.jpg",
-        "https://i.postimg.cc/pd6zxNgZ/1.jpg",
-        "https://i.postimg.cc/Z5YddKmH/3.jpg"
-      ],
-      "description": "MERN-AUTH Appication to develop the API using Nodejs,Express and Mongo DB \n\n.",
-      "pinned": false
-    }
+       
   ]
 }
